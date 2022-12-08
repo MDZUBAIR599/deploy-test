@@ -9,6 +9,16 @@
             "Avatar":"https://i.pravatar.cc/150?img=47",
             "FollowersCount":"200k",
             "FollowingCount":"200k"
+         },
+         {
+            "id":2,
+            "Username":"hasan",
+            "Fullname":"Md hasan",
+            "email":"hasan@123",
+            "password":"123123",
+            "Avatar":"https://i.pravatar.cc/150?img=44",
+            "FollowersCount":"200k",
+            "FollowingCount":"200k"
          }
       ],
 
@@ -16,7 +26,7 @@
         {
            "'id":1,
            "text":"lorem is pdsd sdfsf fddf f",
-           "Avatar":"https://api.giphy.com/v1/gifs/search?api_key=Ece9XsXkoLGiZdksavVqHrwpe3OZc8Uz&q=cat&limit=25&offset=0&rating=g&lang=en"
+           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.gif&ct=g"
         },
         {
            "'id":2,
@@ -26,7 +36,7 @@
         {
            "'id":3,
            "text":"hello rishi",
-           "Avatar":"https://api.giphy.com/v1/gifs/search?api_key=Ece9XsXkoLGiZdksavVqHrwpe3OZc8Uz&q=cat&limit=25&offset=0&rating=g&lang=en7"
+           "Avatar":"https://media1.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.mp4?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.mp4&ct=g"
         }
       ]
 }
