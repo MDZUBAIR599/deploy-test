@@ -8,7 +8,7 @@
             "password":"1234",
             "Avatar":"https://i.pravatar.cc/150?img=47",
             "FollowersCount":"200k",
-            "FollowingCount":"200k"
+            "FollowingCount":"2k"
          },
          {
             "id":2,
@@ -16,8 +16,18 @@
             "Fullname":"Md hasan",
             "email":"hasan@123",
             "password":"123123",
-            "Avatar":"https://i.pravatar.cc/150?img=44",
-            "FollowersCount":"200k",
+            "Avatar":"https://i.pravatar.cc/150?img=70",
+            "FollowersCount":"3k",
+            "FollowingCount":"200k"
+         },
+         {
+            "id":2,
+            "Username":"ali",
+            "Fullname":"Md ali",
+            "email":"ali@123",
+            "password":"123123",
+            "Avatar":"https://i.pravatar.cc/150?img=59",
+            "FollowersCount":"10k",
             "FollowingCount":"200k"
          }
       ],
