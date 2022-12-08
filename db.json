@@ -15,18 +15,18 @@
       "Posts":[
         {
            "'id":1,
-           "text":"hello zubair",
-           "Avatar":"https://i.pravatar.cc/150?img=47"
+           "text":"lorem is pdsd sdfsf fddf f",
+           "Avatar":"https://api.giphy.com/v1/gifs/search?api_key=Ece9XsXkoLGiZdksavVqHrwpe3OZc8Uz&q=cat&limit=25&offset=0&rating=g&lang=en"
         },
         {
            "'id":2,
            "text":"hello abdu",
-           "Avatar":"https://i.pravatar.cc/150?img=47"
+           "Avatar":"https://api.giphy.com/v1/gifs/search?api_key=Ece9XsXkoLGiZdksavVqHrwpe3OZc8Uz&q=cat&limit=25&offset=0&rating=g&lang=en7"
         },
         {
            "'id":3,
            "text":"hello rishi",
-           "Avatar":"https://i.pravatar.cc/150?img=47"
+           "Avatar":"https://api.giphy.com/v1/gifs/search?api_key=Ece9XsXkoLGiZdksavVqHrwpe3OZc8Uz&q=cat&limit=25&offset=0&rating=g&lang=en7"
         }
       ]
 }
