@@ -1,38 +1,32 @@
 {
-    "books":[
-        {
+    "users":[
+         {
             "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1299,
-                "borrowed": false
-          },
-          {
-            "id":2,
-            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNgS7L2MYlDcMN8qzWYrRQW3rFcfgmLiSdg&usqp=CAU",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-                "genre": "tech",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1299,
-                "borrowed": false
-          }
-          ,
-          {
-            "id":3,
-            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNgS7L2MYlDcMN8qzWYrRQW3rFcfgmLiSdg&usqp=CAU",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-                "genre": "history",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1299,
-                "borrowed": false
-          }
+            "Username":"zubair",
+            "Fullname":"Md zubair",
+            "Email":"mdzubair@123",
+            "password":"1234",
+            "Avatar":"https://i.pravatar.cc/150?img=47",
+            "FollowersCount":"200k",
+            "FollowingCount":"200k"
+         }
+      ],
+
+      "Posts":[
+        {
+           "'id":1,
+           "text":"hello zubair",
+           "Avatar":"https://i.pravatar.cc/150?img=47"
+        },
+        {
+           "'id":2,
+           "text":"hello abdu",
+           "Avatar":"https://i.pravatar.cc/150?img=47"
+        },
+        {
+           "'id":3,
+           "text":"hello rishi",
+           "Avatar":"https://i.pravatar.cc/150?img=47"
+        }
       ]
 }
