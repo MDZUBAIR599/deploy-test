@@ -30,11 +30,21 @@
         },
         {
            "'id":2,
+           "text":"lorem is pdsd sdfsf fddf f",
+           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.gif&ct=g"
+        },
+        {
+           "'id":3,
+           "text":"lorem is pdsd sdfsf fddf f",
+           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.gif&ct=g"
+        },
+        {
+           "'id":5,
            "text":"cat on fire",
            "Avatar":"https://media1.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.mp4?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.mp4&ct=g"
         },
         {
-           "'id":3,
+           "'id":6,
            "text":"cat dance",
            "Avatar":"https://media1.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.mp4?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.mp4&ct=g"
         }
