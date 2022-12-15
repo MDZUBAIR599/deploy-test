@@ -1,53 +1,28 @@
 {
-    "users":[
-         {
-            "id":1,
-            "Username":"zubair",
-            "Fullname":"Md zubair",
-            "email":"mdzubair@123",
-            "password":"1234",
-            "Avatar":"https://i.pravatar.cc/150?img=47",
-            "FollowersCount":"200k",
-            "FollowingCount":"2k"
-         },
-         {
-            "id":2,
-            "Username":"hasan",
-            "Fullname":"Md hasan",
-            "email":"hasan@123",
-            "password":"123123",
-            "Avatar":"https://i.pravatar.cc/150?img=70",
-            "FollowersCount":"3k",
-            "FollowingCount":"200k"
-         },
-         {
-            "id":2,
-            "Username":"ali",
-            "Fullname":"Md ali",
-            "email":"ali@123",
-            "password":"123123",
-            "Avatar":"https://i.pravatar.cc/150?img=59",
-            "FollowersCount":"10k",
-            "FollowingCount":"200k"
-         }
-      ],
+  "users": [
+    {
+      "name": "zubair",
+      "age": "23",
+      "gender": "Male",
+      "country": "india",
+      "profession": "Student"
+    },
+    {
+      "name": "ali",
+      "age": "23",
+      "gender": "Male",
+      "country": "india",
+      "profession": "Employed"
+    }
+    ,
+    {
+      "name": "rahman",
+      "age": "33",
+      "gender": "Male",
+      "country": "india",
+      "profession": "Employed"
+    }
+    
 
-      "Posts":[
-        {
-           "'id":1,
-           "text":"cat dance",
-           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.gif&ct=g"
-        },
-        {
-           "'id":2,
-           "text":"cat dance on floor",
-           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/giphy.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=giphy.gif&ct=g"
-        },
-        {
-           "'id":3,
-           "text":"lovely cat",
-           "Avatar":"https://media0.giphy.com/media/ICOgUNjpvO0PC/200w.gif?cid=d9bc658c34sqficf7r9k5w1zjy4x2j4jbc42nuzhgligmtpr&rid=200w.gif&ct=g"
-        }
-       
-      ]
+  ]
 }
