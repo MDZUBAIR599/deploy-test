@@ -1,6 +1,29 @@
 {
   "notes": [
-       
+       {
+        "id":1,
+        "date":"2022-12-16",
+        "description":"i want to go yo gym and workout hard and build body",
+        "title": "gym"
+       },
+       {
+        "id":2,
+        "date":"2022-12-16",
+        "description":"i want to go yo gym and workout hard and build body",
+        "title": "gym"
+       },
+       {
+        "id":3,
+        "date":"2022-12-16",
+        "description":"i want to go yo gym and workout hard and build body",
+        "title": "cricket"
+       },
+       {
+        "id":4,
+        "date":"2022-12-16",
+        "description":"i want to play chess",
+        "title": "chess"
+       }
     ]
    
   
